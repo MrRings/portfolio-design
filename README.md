@@ -1,2 +1,2 @@
 # portfolio-design
-my personal career 
+My personal career.
